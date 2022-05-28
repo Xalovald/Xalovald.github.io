@@ -11419,6 +11419,15 @@ hr.divider-light {
   background-attachment: scroll;
   background-size: cover;
 }
+.competence {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 4.5rem);
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/bg-masthead-descriptif-competences.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
   
 .gestfrais {
   padding-top: 10rem;
